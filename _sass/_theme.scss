@@ -51,8 +51,8 @@ body {
   background-size: cover;
   background-position: center;
   .container {
-    min-height: 35vh;
-    max-width: 60%;
+    min-height: 10vh;
+    max-width: 40%;
     @include flex-direction(column);
     @include justify-content(center);
   }
@@ -71,7 +71,7 @@ body {
 
 .nav {
   a {
-    padding: .2rem;
+    padding: 1rem;
   }
   &--social a {
     display: inline-block;
@@ -80,18 +80,18 @@ body {
 }
 
 .small {
-  padding-top: .8rem;
-  color: $captionColour;
+  padding-top: .4rem;
+  color: $footerColour;
   display: inline-block;
 }
 
 .footer {
   background: $headingColour;
-  color: $captionColour;
+  color: $footerColour;
   a {
-    color: $captionColour;
+    color: $footerColour;
     &:hover {
-      color: $backgroundColour;
+      color: $hoverColour;
     }
   }
   .container {
@@ -150,7 +150,7 @@ body {
     max-width: 34%;
     margin-left: 4%;
     @include flex(1, 0, auto);
-    opacity: 0.5;
+    opacity: 1;
     transition: opacity .1s;
     .section {
       position: sticky;
@@ -437,6 +437,9 @@ pre code {
   }
   hr {
     width: 100%;
+    background-color: gray;
+    border: none;
+    height: 2px;
   }
   li {
     > p {

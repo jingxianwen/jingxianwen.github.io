@@ -93,13 +93,17 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+title: "Xianwen Jing" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/logos/logo_abstract.png" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+
+url: "https://jingxianwen.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+affiliation: "Department of Climate and Space Sciences and Engineering, University of Michigan"
+address: "2455 Hayward Street, Ann Arbor, MI, USA"
+email: "xianwen@umich.edu"
+phone: "+86-15652230923"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
@@ -108,40 +112,46 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+  16: '/assets/logos/logo_abstract@16px.png'
+  32: '/assets/logos/logo_abstract@32px.png'
+  96: '/assets/logos/logo_abstract@96px.png'
+  120: '/assets/logos/logo_abstract@120px.png'
+  144: '/assets/logos/logo_abstract@144px.png'
+  180: '/assets/logos/logo_abstract@180px.png'
+  512: '/assets/logos/logo_abstract@512px.png'
+  1024: '/assets/logos/logo_abstract@1024px.png'
 
 # 9. Site navigation
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: Research
+  url: /research/
+- title: Publications 
+  url: /publications/
+- title: Activities  
+  url: /activities/
+- title: Links 
+  url: /links/
+# - title: Blog
+#  url: /blog/
+# - title: Categories
+#   url: /categories/
+# - title: Search
+#   url: /search/
+# - title: Fork Alembic
+#   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Powered by Alembic Jekyll theme
+  url: https://alembic.darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
+#  Twitter: https://twitter.com/DavidDarnes
   LinkedIn: https://www.linkedin.com/in/daviddarnes
   GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+#  link: https://darn.es
+#  RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
