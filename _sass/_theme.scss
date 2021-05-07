@@ -242,6 +242,11 @@ img {
   }
 }
 
+.floatimg {
+   filter:shadow(color=yellow,direction=135);
+   width:400px
+}
+
 .video,
 .map {
   position: relative;
