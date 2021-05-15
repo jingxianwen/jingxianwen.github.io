@@ -16,11 +16,11 @@ Clouds are one of the most amazing things hanging in the atmosphere. They reflec
 
 <h3> News </h3>
 <ul>
-   <li> <b>NASA Featured our <a href="https://doi.org/10.1175/JCLI-D-20-0743.1">paper</a></b>. (May 15, 2021)<a href="https://www.nasa.gov/feature/goddard/2021/new-nasa-data-sheds-sun-light-on-climate-models">Link</a> </li>  
-   <li> <b>Call for Papers</b>: special issue "Aerosol-Cloud-Precipitation Interactions: from Weather to Climate" on <i> Atmosphere</i> (IF 2.379). (April 1, 2021) <a href="https://www.mdpi.com/journal/atmosphere/special_issues/Aerosol_Cloud_Precipitation">Link</a> <a href="/assets/PDF/SI_ACPI_flyer.pdf" target="_blank">Flyer</a></li> 
-   <li> <b>New paper published</b> on <i> Journal of Climate</i>, contrasting the most recent NASA whole-range solar spectrum observation with the current standard solar spectrum used in CMIP6, and revealing how their differences are felt by ice- and snow-covered surfaces in polar regions. (Mar 29, 2021) <a href="https://doi.org/10.1175/JCLI-D-20-0743.1">Link</a></li>
+   <li> <b>NASA Featured our <a href="https://doi.org/10.1175/JCLI-D-20-0743.1">paper</a></b>. <a href="https://www.nasa.gov/feature/goddard/2021/new-nasa-data-sheds-sun-light-on-climate-models">Link</a> (May 15, 2021)</li>  
+   <li> <b>Call for Papers</b>: special issue "Aerosol-Cloud-Precipitation Interactions: from Weather to Climate" on <i> Atmosphere</i> (IF 2.379). <a href="https://www.mdpi.com/journal/atmosphere/special_issues/Aerosol_Cloud_Precipitation">Link</a> <a href="/assets/PDF/SI_ACPI_flyer.pdf" target="_blank">Flyer</a> (April 1, 2021)</li> 
+   <li> <b>New paper published</b> on <i> Journal of Climate</i>, contrasting the most recent NASA whole-range solar spectrum observation with the current standard solar spectrum used in CMIP6, and revealing how their differences are felt by ice- and snow-covered surfaces in polar regions. <a href="https://doi.org/10.1175/JCLI-D-20-0743.1">Link</a> (Mar 29, 2021)</li>
    <img src="/assets/images/JCLIM_2021_thumbnail.png" width="300">
-   <li> <b>Highlighted young scientist</b> on the newsletter of the Scientific Committee on Solar-Terrestrial Physics (SCOSTEP). (Jan 26, 2021) <a href="http://f90.606.myftpupload.com/newsletter-archive/">Link</a> <a href="/assets/PDF/SCOSTEP_newsletter_v26.pdf">PDF</a> </li>
+   <li> <b>Highlighted young scientist</b> on the newsletter of the Scientific Committee on Solar-Terrestrial Physics (SCOSTEP). <a href="http://f90.606.myftpupload.com/newsletter-archive/">Link</a> <a href="/assets/PDF/SCOSTEP_newsletter_v26.pdf">PDF</a> (Jan 26, 2021) </li>
    <img src="/assets/images/SCOSTEP_newsletter_v26_thumbnail.png" width="300" alt="MDN">
 </ul>
 <h3> Footprint on Web </h3>
