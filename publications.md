@@ -9,7 +9,12 @@ aside: false
 ## Publications since 2016
 ### 2021
 <ul>
-   <li><b>Jing, X.</b>, Xianglei Huang, Xiuhong Chen, Dong L. Wu, Peter Pilewskie, Odele Coddington, Erik Richard, 2021. Direct influence of solar spectral irradiance on the high-latitude surface climate. Journal of Climate, 34(10), 4145-4158, <a href="https://doi.org/10.1175/JCLI-D-20-0743.1" target="_blank">https://doi.org/10.1175/JCLI-D-20-0743.1.</a>(<b style="color: red">Highlighted on the SCOSTEP/PRESTO newsletter, Vol.26, 5-6, January 2021</b>) </li>
+   <li><b>Jing, X.</b>, Xianglei Huang, Xiuhong Chen, Dong L. Wu, Peter Pilewskie, Odele Coddington, Erik Richard, 2021. Direct influence of solar spectral irradiance on the high-latitude surface climate. Journal of Climate, 34(10), 4145-4158, <a href="https://doi.org/10.1175/JCLI-D-20-0743.1" target="_blank">https://doi.org/10.1175/JCLI-D-20-0743.1.</a><br>
+   <ul>
+      <li><span style="color: red"> Highlighted on the <a href="http://f90.606.myftpupload.com/newsletter-archive/"> SCOSTEP/PRESTO newsletter (Vol.26, 2021)</a> </span>. <br></li>
+      <li><span style="color: red"> Featured by <a href="https://www.nasa.gov/feature/goddard/2021/new-nasa-data-sheds-sun-light-on-climate-models">NASA news (May 14, 2021)</a> </span>.</li> 
+   </ul> 
+   </li>
 </ul>   
 ### 2019
 <ul>
@@ -25,7 +30,7 @@ aside: false
 </ul>
 ### 2017
 <ul>
-   <li><b>Jing, X.</b>, K. Suzuki, H. Guo, D. Goto, T. Ogura, T. Koshiro, and J. Mülmenstädt, 2017, A multi-model study on warm precipitation biases in global models compared to satellite observations, Journal of Geophysical Research: Atmosphere, 122, 11,806-11,824, <a href="https://doi.org/10.1002/2017JD027310" target="_blank">https://doi.org/10.1002/2017JD027310.</a> (<b style="color: red">Featured on JGR: Atmosphere</b>)</li>
+   <li><b>Jing, X.</b>, K. Suzuki, H. Guo, D. Goto, T. Ogura, T. Koshiro, and J. Mülmenstädt, 2017, A multi-model study on warm precipitation biases in global models compared to satellite observations, Journal of Geophysical Research: Atmosphere, 122, 11,806-11,824, <a href="https://doi.org/10.1002/2017JD027310" target="_blank">https://doi.org/10.1002/2017JD027310.</a> (<span style="color: red"> Featured on JGR: Atmosphere</span>)</li>
    <li>Zhao, S., H. Zhang, Z. Wang, and <b>X. Jing</b>, 2017: Simulating the Effects of Anthropogenic Aerosols on Terrestrial Aridity Using an Aerosol–Climate Coupled Model. Journal of Climate, 30, 7451–7463.</li>
    <li>Zhang, F., K. Wu, P. Liu, <b>X. Jing</b>, J. Li, 2017. Accounting for Gaussian quadrature in four-stream radiative transfer algorithms, Journal of Quantitative Spectroscopy and Radiative Transfer, 192, 1-13.</li>
    <li>Tang, W., K. Yang, J. Qin, X. Niu, C. Lin, <b>X. Jing</b>, 2017, A revisit to decadal change of aerosol optical depth and its impact on global radiation over China, Atmospheric Environment, 150, 106-115.</li>
