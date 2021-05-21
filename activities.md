@@ -17,12 +17,17 @@ aside: false
    <ul>
       <li>NASA "Release of Research Opportunities in Space and Earth Science (ROSES)", Panel Reviewer </li>
    </ul>
-<h5> Membership </h5>
+<h5> Membership  </h5>
    <ul>
       <li>Member of Chinese Meteorological Society</li>
       <li>Member of American Geophysical Union</li>
       <li>Member of American Meteorological Society</li>
    </ul>
+### Lectures
+   <ul>
+      <li><i>Solar radiation and Earth climate</i>, on Atmospheric Radiation centric lectures for graduate students, China University of Geosciences (Wuhan), May 20th, 2021</li>
+   </ul>
+
 ### Presentations on conferences
 <h5> Oral Presentations </h5>
 <ul>
