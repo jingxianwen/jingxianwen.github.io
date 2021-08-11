@@ -11,6 +11,7 @@ aside: false
    <ul>
       <li>Journal of Climate </li>
       <li>Quarterly Journal of the Royal Meteorological Society</li>
+      <li>Journal of Applied Meteorology and Climatology </li>
       <li>SN Applied Sciences</li>
    </ul>
 <h5> Proporal Review </h5>
