@@ -100,9 +100,9 @@ description: "Alembic is a starting point for Jekyll projects. Rather than start
 url: "https://jingxianwen.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
-affiliation: "Department of Climate and Space Sciences and Engineering, University of Michigan"
-address: "2455 Hayward Street, Ann Arbor, MI, USA"
-email: "xianwen@umich.edu"
+affiliation: "College of City and Environment, Hubei Normal University"
+address: "No.11 Cihu Road, Huangshi, Hubei, 435002, China"
+email: "jingxianwen@live.cn"
 phone: "+86-15652230923"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
