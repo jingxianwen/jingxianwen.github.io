@@ -2,7 +2,7 @@
 title: Home
 feature_text: |
   ## Xianwen Jing (荆现文)
-  University of Michigan, Ann Arbor, USA
+  Hubei Normal University, Huangshi, China
 feature_image: /assets/images/nasa-cloud3.png 
 excerpt: "Dr. Xianwen Jing is a researcher of atmospheric sciences. The specific research topics include atmospheric radiation, aerosol and cloud physics, precipitation processes, and polar changes."
 aside: true
