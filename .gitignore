@@ -4,4 +4,4 @@
 alembic-jekyll-theme-*.gem
 Gemfile.lock
 **/Gemfile.lock
-
+deploy_hp.sh
