@@ -10,6 +10,8 @@ aside: false
    <ul>
       <li>Meteorology and Climatology (undergraduate)</li>
       <li>Academic Searching and Writing (undergraduate)</li>
+      <li>Python Programming (undergraduate)</li>
+      <li>C Programming (undergraduate)</li>
       <li>English for Geoscience (graduate)</li>
    </ul>
 ### Services and Membership
@@ -41,6 +43,7 @@ aside: false
 ### Presentations on conferences
 <h5> Oral Presentations </h5>
 <ul>
+   <li>2021.5.24, 湖北武汉, 暴雨东湖论坛, <i>数值模式中降水微物理方案对降水发生时间和频率的影响</i></li>
    <li>2020.12, USA (online due to COVID19), The AGU 2020 Fall Meeting, <i>Direct influence of solar spectral irradiance on the high-latitude surface climate</i></li>
    <li>2018.12, Washington DC, USA, The AGU 2018 Fall Meeting,<i>Decisive Role of the Warm Rain Formation Process in Modulating Aerosol Indirect Effect in a Global Climate Model</i>.</li>
    <li>2017.5, Makuhari, Chiba, Japan, The Japan Geoscience Union meeting 2017,<i>The too-fast, too-frequent precipitation simulated in GCMs</i>.</li>

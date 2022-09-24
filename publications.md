@@ -7,6 +7,7 @@ excerpt: "Education and acdemic history of Xianwen"
 aside: false
 ---
 ## Publications since 2016
+
 ### 2021
 <ul>
    <li><b>Jing, X.</b>, Xianglei Huang, Xiuhong Chen, Dong L. Wu, Peter Pilewskie, Odele Coddington, Erik Richard, 2021. Direct influence of solar spectral irradiance on the high-latitude surface climate. Journal of Climate, 34(10), 4145-4158, <a href="https://doi.org/10.1175/JCLI-D-20-0743.1" target="_blank">https://doi.org/10.1175/JCLI-D-20-0743.1.</a><br>
@@ -15,7 +16,8 @@ aside: false
       <li><span style="color: red"> Featured by <a href="https://www.nasa.gov/feature/goddard/2021/new-nasa-data-sheds-sun-light-on-climate-models">NASA news (May 14, 2021)</a> </span>.</li> 
    </ul> 
    </li>
-</ul>   
+  <li>Wang, H., Zhang, H., Xie, B., <b>Jing, X.</b>, He, J., Liu, Y. Evaluating the Impacts of Cloud Microphysical and Overlap Parameters on Simulated Clouds in Global Climate Models. Adv. Atmos. Sci., 2021. <a href="https://doi.org/10.1007/s00376-021-0369-7" target="_blank">https://doi.org/10.1007/s00376-021-0369-7</a></li>
+</ul>
 ### 2019
 <ul>
    <li><b>Jing, X.</b>, K. Suzuki, and T. Michibata, 2019. The Key Role of Warm Rain Parameterization in Determining the Aerosol Indirect Effect in a Global Climate Model. Journal of Climate, 32, 4409–4430, <a href="https://doi.org/10.1175/JCLI-D-18-0789.1" target="_blank">https://doi.org/10.1175/JCLI-D-18-0789.1.</a></li>
