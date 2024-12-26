@@ -6,8 +6,18 @@ feature_image: "/assets/images/nasa-cloud3.png"
 excerpt: "Education and acdemic history of Xianwen"
 aside: false
 ---
-## Publications since 2016
+### 2024
+<ul>
+   <li>Yuan, C., Zhang, H., <b>Jing, X.*</b>, Zhao, S., Li, X., 2024. Impact of a New Radiation Scheme on Simulated Climate in the Global–Regional Integrated SysTem Model under Varying Physical Parameterization Schemes. Atmosphere, 15(4), 501, <a href="https://doi.org/10.3390/atmos15040501" target="_blank">https://doi.org/10.3390/atmos15040501.</a></li>
+   <li>He, C., <b>Jing, X.*</b>, 2024. Domain adaptation method for extracting buildings from remote sensing images using dual contrastive learning. Journal of Applied Remote Sensing, 18(3), 034517, <a href="https://doi.org/10.1117/1.JRS.18.034517" target="_blank">https://doi.org/10.1117/1.JRS.18.034517</a></li>
 
+</ul>
+
+### 2023
+<ul>
+   <li>Jing, J., Yang, Y., Cheng, J., Ding, Z., Wang, D., <b>Jing, X.</b>, 2023. Analysis of the effect of formation dip angle and injection pressure on the injectivity and migration of CO2 during storage. Energy, 280, 128021, <a href="https://doi.org/10.1016/j.energy.2023.128021" target="_blank">https://doi.org/10.1016/j.energy.2023.128021.</a></li>
+
+</ul>
 ### 2021
 <ul>
    <li><b>Jing, X.</b>, Xianglei Huang, Xiuhong Chen, Dong L. Wu, Peter Pilewskie, Odele Coddington, Erik Richard, 2021. Direct influence of solar spectral irradiance on the high-latitude surface climate. Journal of Climate, 34(10), 4145-4158, <a href="https://doi.org/10.1175/JCLI-D-20-0743.1" target="_blank">https://doi.org/10.1175/JCLI-D-20-0743.1.</a><br>
