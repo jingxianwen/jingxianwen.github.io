@@ -12,7 +12,7 @@ aside: true
 
 I am a researcher of atmospheric sciences. I study clouds and radiation. <br>
 Clouds are one of the most amazing things hanging in the atmosphere. They reflect solar radiation and thus cool the surface, and also generate precipitation that is important but sometimes hazardous to humans. Clouds not only keep changing their appereance at any given moment, but also have features invisible to human eyes yet vital to energy exchange and precipitation generation. Examples of such features include particle sizes and phases (i.e., liquid or ice). The extensive interactions with aerosols and environment conditions make clouds very hard to predict. My goal of research is to model aerosol-cloud-precipitation processes as correctly as possible, and thus increase the predictability of weather and climate models. Satellite data such as those from the NASA A-Train constellation are heavily used in my research. 
-<p>A detailed CV about me can be found <a href="/assets/PDF/CV_Jing_Xianwen.pdf" target="_blank">here</a>.</p>
+<!-- <p>A detailed CV about me can be found <a href="/assets/PDF/CV_Jing_Xianwen.pdf" target="_blank">here</a>.</p> -->
 
 <h3> News </h3>
 <ul>

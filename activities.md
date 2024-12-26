@@ -6,6 +6,7 @@ feature_image: "/assets/images/nasa-cloud3.png"
 excerpt: "News about Xianwen"
 aside: false
 ---
+<!--
 ### College Teaching ###
    <ul>
       <li>Meteorology and Climatology (undergraduate)</li>
@@ -18,6 +19,7 @@ aside: false
 <h5> Journal Review </h5>
    <ul>
       <li>Journal of Climate </li>
+      <li>Journal of Geophysical Research: Atmospheres </li>
       <li>Quarterly Journal of the Royal Meteorological Society</li>
       <li>Remote Sensing</li>
       <li>Journal of Applied Meteorology and Climatology </li>
@@ -40,6 +42,7 @@ aside: false
       <li><i>Solar radiation and Earth climate</i>, on Atmospheric Radiation centric lectures for graduate students, China University of Geosciences (Wuhan), May 20th, 2021</li>
    </ul>
 
+-->
 ### Presentations on conferences
 <h5> Oral Presentations </h5>
 <ul>
