@@ -1,8 +1,8 @@
-const version = '20220924033038';
+const version = '20250120033514';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2016/08/29/example-post-three/","/history/2016/08/28/example-post-two/","/general/2016/08/27/example-post-one/","/activities/","/categories/","/cv/","/blog/","/","/links/","/manifest.json","/offline/","/publications/","/research/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/styles.css.map","/assets/logos/logo_abstract.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/2016/08/29/example-post-three/","/history/2016/08/28/example-post-two/","/general/2016/08/27/example-post-one/","/activities/","/categories/","/cv/","/blog/","/","/links/","/manifest.json","/offline/","/publications/","/research/","/research.md_bak","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/styles.css.map","/assets/logos/logo_abstract.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
