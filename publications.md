@@ -6,6 +6,11 @@ feature_image: "/assets/images/nasa-cloud3.png"
 excerpt: "Education and acdemic history of Xianwen"
 aside: false
 ---
+#### 2025
+<ul>
+   <li>Kong, C., <b>Jing, X.*</b>, Niu, X., Jing, J., 2025. Implications of Spaceborne High-resolution Solar Spectral Irradiance Observation for the Assessment of Surface Solar Energy in China, <a href="https://doi.org/10.20944/preprints202502.0414.v1" target="_blank">https://doi.org/10.20944/preprints202502.0414.v1.</a></li>
+</ul>
+
 #### 2024
 <ul>
    <li>Yuan, C., Zhang, H., <b>Jing, X.*</b>, Zhao, S., Li, X., 2024. Impact of a New Radiation Scheme on Simulated Climate in the Global–Regional Integrated SysTem Model under Varying Physical Parameterization Schemes. Atmosphere, 15(4), 501, <a href="https://doi.org/10.3390/atmos15040501" target="_blank">https://doi.org/10.3390/atmos15040501.</a></li>
