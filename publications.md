@@ -8,7 +8,7 @@ aside: false
 ---
 #### 2025
 <ul>
-   <li>Kong, C., <b>Jing, X.*</b>, Niu, X., Jing, J., 2025. Implications of Spaceborne High-resolution Solar Spectral Irradiance Observation for the Assessment of Surface Solar Energy in China, <a href="https://doi.org/10.20944/preprints202502.0414.v1" target="_blank">https://doi.org/10.20944/preprints202502.0414.v1.</a></li>
+   <li>Kong, C., <b>Jing, X.*</b>, Niu, X., Jing, J., 2025. Implications of Spaceborne High-resolution Solar Spectral Irradiance Observation for the Assessment of Surface Solar Energy in China. Preprints, 2025020414, <a href="https://doi.org/10.20944/preprints202502.0414.v1" target="_blank">https://doi.org/10.20944/preprints202502.0414.v1.</a></li>
 </ul>
 
 #### 2024
