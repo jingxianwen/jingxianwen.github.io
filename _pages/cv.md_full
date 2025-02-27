@@ -1,0 +1,65 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+Education
+======
+* Ph.D in Meteorology, Graduate University of Chinese Academy of Sciences, 2012
+* M.S. in Meteorology, Nanjing University of information Science & Technology, 2009
+* B.S. in Applied Meteorology, Nanjing University of information Science & Technology, 2006
+
+Work experience
+======
+* October 2021 – current: Associate Professor
+  * College of Urban and Environmental Sciences, Hubei Normal University
+  * Address: No.11 Cihu Road, Huangshi, Hubei 435002, China
+
+* Septemper 2019 – December 2020: Postdoctoral Research Fellow
+  * Department of Climate and Space Sciences and Engineering, University of Michigan
+  * Address: 2455 Hayward Street, Ann Arbor, MI 48109-2143, USA
+
+* June 2016 – May 2019: Postdoctoral Research Fellow
+  * Atmosphere and Ocean Research Institute, University of Tokyo
+  * Address: 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8568, Japan
+
+* July 2012 – May 2016: Senior Engineer
+  * National Climate Center, Chinese Administration of Meteorology
+  * Address: No.46 Zhongguancun Nandajie, Haidian, Beijing 100081, China
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
