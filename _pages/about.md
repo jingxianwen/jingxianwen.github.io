@@ -15,7 +15,7 @@ Our research topics include developing parameterization methods for better atmos
 News
 -----
 <ul>
-   <li> <b>New paper published:</b> Kong, Chenxi, Xianwen Jing, Xiaorui Niu, and Jing Jing. 2025. "Implications of Spaceborne High-Resolution Solar Spectral Irradiance Observation for the Assessment of Surface Solar Energy in China" Energies 18, no. 5: 1221. <a href="https://doi.org/10.3390/en18051221">https://doi.org/10.3390/en18051221</a> (Mar 2, 2025)
+   <li> <b>New paper published:</b> Kong, Chenxi, Xianwen Jing, Xiaorui Niu, and Jing Jing. 2025. "Implications of Spaceborne High-Resolution Solar Spectral Irradiance Observation for the Assessment of Surface Solar Energy in China". Energies, 18(5): 1221. <a href="https://doi.org/10.3390/en18051221">https://doi.org/10.3390/en18051221</a> (Mar 2, 2025)</li>
    <li> <b>NASA reported our <a href="https://doi.org/10.1175/JCLI-D-20-0743.1">paper</a>: </b>. <a href="https://www.nasa.gov/feature/goddard/2021/new-nasa-data-sheds-sun-light-on-climate-models">New NASA Data Sheds (Sun) Light on Climate Models</a> (May 15, 2021)</li>
    <li> <b>New paper published:</b> Jing, X., Xianglei Huang, Xiuhong Chen, Dong L. Wu, Peter Pilewskie, Odele Coddington, Erik Richard, 2021. Direct influence of solar spectral irradiance on the high-latitude surface climate. Journal of Climate, 34(10), 4145-4158, <a href="https://doi.org/10.1175/JCLI-D-20-0743.1">https://doi.org/10.1175/JCLI-D-20-0743.1</a> (Mar 29, 2021)</li>
    <li> <b>Highlighted young scientist: </b> Xianwen Jing got highlighted on the newsletter of the Scientific Committee on Solar-Terrestrial Physics (SCOSTEP). <a href="/assets/PDF/SCOSTEP_newsletter_v26.pdf">PDF</a> (Jan 26, 2021) </li>
