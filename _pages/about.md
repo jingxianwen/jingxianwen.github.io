@@ -9,7 +9,8 @@ redirect_from:
 <div style="text-align:center;">
   <img src='/images/satellite_logo.png'>
 </div>
-Group of Applied Radiative Transfer (<b>GoART</b>) is a small group of people led by Prof. <b>Xianwen Jing</b>, aiming at enhancing the application of radiative transfer tools in various areas, such as climate models, solar energy, and remote sensing.
+<br>
+<b>GoART</b> (<b>G</b>roup <b>o</b>f <b>A</b>pplied <b>R</b>adiative <b>T</b>ransfer) is a small group of people led by Prof. <b>Xianwen Jing</b>, aiming at enhancing the application of radiative transfer tools in various areas, such as climate models, solar energy, and remote sensing.
 Our research topics include developing parameterization methods for better atmospheric radiative transfer simulations, investigating processes that interact with radiative transfer (e.g., aerosol-cloud-radiation interaction, surface reflection), and solving practical problems associated with solar energy harvest.<br>
 
 News
@@ -24,6 +25,7 @@ News
 Selected Publications
 -----
 <ul>
+   <li>Kong, C., <b>Jing X.</b>, Niu X., and Jing J. 2025. Implications of Spaceborne High-Resolution Solar Spectral Irradiance Observation for the Assessment of Surface Solar Energy in China. Energies, 18(5): 1221. <a href="https://doi.org/10.3390/en18051221">https://doi.org/10.3390/en18051221</a></li>
    <li><b>Jing, X.</b>, Xianglei Huang, Xiuhong Chen, Dong L. Wu, Peter Pilewskie, Odele Coddington, Erik Richard, 2021. Direct influence of solar spectral irradiance on the high-latitude surface climate. Journal of Climate, 34(10), 4145-4158, <a href="https://doi.org/10.1175/JCLI-D-20-0743.1" target="_blank">https://doi.org/10.1175/JCLI-D-20-0743.1.</a> (<span style="color: blue">NASA News Reported</span>)<br>
    <li><b>Jing, X.</b>, K. Suzuki, and T. Michibata, 2019. The Key Role of Warm Rain Parameterization in Determining the Aerosol Indirect Effect in a Global Climate Model. Journal of Climate, 32, 4409–4430, <a href="https://doi.org/10.1175/JCLI-D-18-0789.1" target="_blank">https://doi.org/10.1175/JCLI-D-18-0789.1.</a></li>
    <li><b>Jing, X.</b>, and Suzuki, K., 2018, The impact of process-based warm rain constraints on the aerosol indirect effect. Geophysical Research Letters, 45, 10,729–10,737. <a href="https://doi.org/10.1029/2018GL079956" target="_blank">https://doi.org/10.1029/2018GL079956.</a> </li>
